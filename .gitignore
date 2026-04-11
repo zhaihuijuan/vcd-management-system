@@ -1,0 +1,10 @@
+# Maven
+**/target/
+
+# Node
+**/node_modules/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.log

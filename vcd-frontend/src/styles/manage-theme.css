@@ -1,0 +1,9 @@
+/* Ant Design–style primary used in original UI */
+:root {
+  --el-color-primary: #1890ff;
+  --el-color-primary-light-3: #40a9ff;
+  --el-color-primary-light-5: #69c0ff;
+  --el-color-primary-light-7: #91d5ff;
+  --el-color-primary-light-9: #bae7ff;
+  --el-color-primary-dark-2: #096dd9;
+}
