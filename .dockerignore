@@ -1,0 +1,17 @@
+# Maven 构建产物
+target/
+*.iml
+
+# IDEA 配置
+.idea/
+out/
+
+# 前端 node_modules（不需要打包进镜像）
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+# 日志
+*.log
